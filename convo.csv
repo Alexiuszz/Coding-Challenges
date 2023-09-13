@@ -1,0 +1,54 @@
+key,value
+BG,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/svgs/conversationMode/Background-01.svg
+GameController,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/svgs/conversationMode/GameController.svg
+activityMode,conversation
+activityName,Conversations
+activityTitle,"John and Tobi"
+backgroundMusic,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/audio/lessons/mode4_EN_01/mode4_background.mp3
+cursor,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/ENGLISH/G1/lesson1/pointer_cursor.png
+fillerChar,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/svgs/speakers/fullTeacher/t6.svg
+fillerRive,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/rive/teacher.riv
+gameLink,/lesson/expConversation1
+intro.audio,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/audio/lessons/conversationMode/JohnTobi/e1l5intro.mp3
+intro.background,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/svgs/lesson2/welcomeBG.svg
+intro.startState,lesson
+intro.talker,fullTeacher
+left.0,true
+left.1,false
+left.2,true
+left.3,false
+left.4,true
+left.5,true
+left.6,false
+modeAudio.convo.0,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/audio/lessons/conversationMode/JohnTobi/e1l5_1.mp3
+modeAudio.convo.1,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/audio/lessons/conversationMode/JohnTobi/e1l5_2.mp3
+modeAudio.convo.2,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/audio/lessons/conversationMode/JohnTobi/e1l5_3.mp3
+modeAudio.convo.3,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/audio/lessons/conversationMode/JohnTobi/e1l5_4.mp3
+modeAudio.convo.4,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/audio/lessons/conversationMode/JohnTobi/e1l5_5.mp3
+modeAudio.convo.5,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/audio/lessons/conversationMode/JohnTobi/e1l5_6.mp3
+modeAudio.convo.6,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/audio/lessons/conversationMode/JohnTobi/e1l5_7.mp3
+modeAudio.teacher.0,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/audio/lessons/conversationMode/JohnTobi/e1l5intro.mp3
+modeAudio.teacher.1,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/audio/lessons/conversationMode/JohnTobi/e1l5outro.mp3
+navForwardBg,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/svgs/lesson2/navForward.svg
+navForwardBlueBg,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/svgs/lesson2/navForwardBlue.svg
+navForwardGray,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/svgs/lesson2/navForwardGray.svg
+outro.audio,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/audio/lessons/conversationMode/JohnTobi/e1l5outro.mp3
+outro.background,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/svgs/lesson2/welcomeBG.svg
+outro.endLink,lessons
+outro.talker,fullTeacher
+riveSpeakers.0,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/rive/john.riv
+riveSpeakers.1,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/rive/tobi.riv
+selectCursor,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/ENGLISH/G1/lesson1/pointer_3.svg
+smallSpeakers.0,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/svgs/speakers/boyFlipped/JohnFace.svg
+smallSpeakers.1,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/svgs/speakers/Tobi/TobiFace.svg
+speakers.0,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/svgs/speakers/boyFlipped/boyFlippedStable1.svg
+speakers.1,https://biamuta-activities-assets.s3.us-east-2.amazonaws.com/general/svgs/speakers/Tobi/Tobi-05.svg
+texts.convo.0,"Hello. My name is John. What is your name?"
+texts.convo.1,"My name is Tobi."
+texts.convo.2,"How old are you Tobi? "
+texts.convo.3,"I am six years old. How old are you? "
+texts.convo.4,"I am seven years old."
+texts.convo.5,"Nice to meet you Tobi.?"
+texts.convo.6,"Nice to meet you John "
+texts.teacher.0,"Welcome to this lesson. Here we have a discussion between John and Tobi. Listen to the sentences and repeat what you hear."
+texts.teacher.1,"Well done! You have finished this conversation. Let's go on to the next lesson. "
