@@ -32,4 +32,21 @@ var rotate2 = function (nums, k) {
   reverse(k, nums.length - 1); // reverse second part --->----->
   return nums;
 };
-console.log(rotate2([1, 2], 3));
+console.log(rotate2([0, 1, 2, 3, 4, 5, 6], 4));
+
+const getDays = () => {
+  const days = [
+    "Sun",
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thur",
+    "Fri",
+    "Sat",
+  ];
+
+  const today = new Date();
+  console.log(today.getDay())
+  return rotate2(days, today.getDay());
+};
+console.log(getDays().reverse())
