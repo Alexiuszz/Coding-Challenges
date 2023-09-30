@@ -19,18 +19,6 @@ Output: false
  
 */
 
-// var isMonotonic = function (nums) {
-//   const isMonoI = nums[0] <= nums[nums.length - 1];
-//   console.log("isMonoI", isMonoI);
-//   for (let i = 0, j = 1; i < nums.length - 1; i++, j++) {
-//     if (!(isMonoI == nums[i] <= nums[j])) {
-//       console.log("check", nums[i] <= nums[j], i, j);
-//       return false;
-//     }
-//   }
-//   return true;
-// };
-
 var isMonotonic = function (nums) {
   let t = null;
   for (let i = 0, j = 1; i < nums.length - 1; i++, j++) {
